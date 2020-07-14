@@ -1,4 +1,5 @@
-#Library PHPMailer SMTP
+# Library PHPMailer SMTP
+
 This is a lightweight SMTP PHPMailer.
 Simple, powerful and easy to use.
 
